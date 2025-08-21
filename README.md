@@ -15,7 +15,7 @@
 <h2>✨ Funcionalidades</h2>
 <ul>
   <li>Fazer a leitura de um arquivo json e jogar na tela de forma organizada</li>
-  <i>Inserir conteúdo nescessário da tabela com JavaScript<li>
+  <li>Inserir conteúdo nescessário da tabela com JavaScript</li>
   <li>Pesquisar por id através de um campo input</li>
 </ul>
 
