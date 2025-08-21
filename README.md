@@ -3,7 +3,7 @@
 <h2>📌 Sobre o Projeto</h2>
 <p>Este foi um teste técnico de uma empresa, desenvolvido para concorrer a vaga.</p>
 
-<h3>💻<a href="https://deangelleses.github.io/mochila_de_viagem-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+<h3>💻<a href="https://deangelleses.github.io/teste_tecnico-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
